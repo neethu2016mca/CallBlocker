@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\uu.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-ldpi\\uu.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ac.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-ldpi\\ac.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

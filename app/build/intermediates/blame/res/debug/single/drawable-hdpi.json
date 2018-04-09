@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\famz_logo.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-hdpi\\famz_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_block.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-hdpi\\icon_block.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\bl-ca-pr1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]
